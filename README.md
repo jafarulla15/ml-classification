@@ -1,10 +1,10 @@
 # ml-classification
-What is Classification?
-```
+# What is Classification?
+
 Classification is technique to categorize our data into a desired and distinct number of classes where we can assign label to each class.
 
 Applications of Classification are: speech recognition, handwriting recognition, biometric identification, document classification etc.
-```
+
 https://medium.com/datadriveninvestor/classification-algorithms-in-machine-learning-85c0ab65ff4
 
 https://medium.com/@Mandysidana/machine-learning-types-of-classification-9497bd4f2e14
