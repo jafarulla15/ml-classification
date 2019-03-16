@@ -2,6 +2,19 @@
 
 https://medium.com/datadriveninvestor/classification-algorithms-in-machine-learning-85c0ab65ff4
 
+https://medium.com/@Mandysidana/machine-learning-types-of-classification-9497bd4f2e14
+
+Here we have the types of classification algorithms in Machine Learning:
+
+1. Linear Classifiers: Logistic Regression, Naive Bayes Classifier
+2. Support Vector Machines
+3. Decision Trees
+4. Boosted Trees
+5. Random Forest
+6. Neural Networks
+7. Nearest Neighbor
+
+
 # Decision Tree Classification
 ```
 pip3 install numpy scipy scikit-learn
