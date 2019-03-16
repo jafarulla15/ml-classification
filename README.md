@@ -21,6 +21,8 @@ Here we have the types of classification algorithms in Machine Learning:
 6. Neural Networks
 7. Nearest Neighbor
 
+# Liner Regression and Logistic Regression
+https://www.youtube.com/watch?v=OCwZyYH14uw
 
 # Decision Tree Classification
 ```
