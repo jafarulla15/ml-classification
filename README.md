@@ -4,6 +4,8 @@ https://medium.com/datadriveninvestor/classification-algorithms-in-machine-learn
 
 https://medium.com/@Mandysidana/machine-learning-types-of-classification-9497bd4f2e14
 
+https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11
+
 Here we have the types of classification algorithms in Machine Learning:
 
 1. Linear Classifiers: Logistic Regression, Naive Bayes Classifier
