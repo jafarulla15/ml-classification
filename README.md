@@ -24,7 +24,10 @@ Here we have the types of classification algorithms in Machine Learning:
 # Liner Regression and Logistic Regression
 https://www.youtube.com/watch?v=OCwZyYH14uw
 
+# Liner Regression
 https://www.youtube.com/watch?v=zPG4NjIkCjc
+# Liner Regression Calculation
+https://www.youtube.com/watch?v=JvS2triCgOY
 
 # Decision Tree Classification
 ```
