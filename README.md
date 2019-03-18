@@ -28,6 +28,8 @@ https://www.youtube.com/watch?v=OCwZyYH14uw
 https://www.youtube.com/watch?v=zPG4NjIkCjc
 # Liner Regression Calculation
 https://www.youtube.com/watch?v=JvS2triCgOY
+# Calculate estimate value
+https://www.youtube.com/watch?v=w2FKXOa0HGA
 
 # Decision Tree Classification
 ```
