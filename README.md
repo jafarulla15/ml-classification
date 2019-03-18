@@ -26,6 +26,9 @@ https://www.youtube.com/watch?v=OCwZyYH14uw
 
 # Liner Regression
 https://www.youtube.com/watch?v=zPG4NjIkCjc
+
+https://www.youtube.com/watch?v=E5RjzSK0fvY
+
 # Liner Regression Calculation
 https://www.youtube.com/watch?v=JvS2triCgOY
 # Calculate estimate value
