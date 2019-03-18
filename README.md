@@ -31,6 +31,8 @@ https://www.youtube.com/watch?v=JvS2triCgOY
 # Calculate estimate value
 https://www.youtube.com/watch?v=w2FKXOa0HGA
 
+https://www.youtube.com/watch?v=r-txC-dpI-E
+
 # Decision Tree Classification
 ```
 pip3 install numpy scipy scikit-learn
